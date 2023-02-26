@@ -1,7 +1,3 @@
-/* Adam Lewandowski
- * aclewandowsk
-*/
-
 #include "enigma.h"
 #include <stdio.h>
 #include <string.h>
