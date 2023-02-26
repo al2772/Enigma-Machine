@@ -6,6 +6,7 @@ To compile:
 gcc -g enigma_functions.c enigma_driver.c -Wall
 
 To run:
+
 ./a.out
 
 Example:
