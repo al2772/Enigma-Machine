@@ -1,5 +1,5 @@
 # Enigma-Machine
-Uses rotors to encrypt and decrypt messages. The user will input a message in all caps, then will choose up to 4 rotors (numbered 1-8) to encrypt the message. Next, the user is asked to enter the number of times each rotor will be rotated. Finally, the program returns a encrypted message followed by the message decrypted again.
+Uses rotors to encrypt and decrypt messages. The user will input a message in all caps, then will choose up to 4 rotors (numbered 1-8) to encrypt the message. Next, the user is asked to enter the number of times each rotor will be rotated. Finally, the program returns a encrypted message followed by the message decrypted again. The file coded by me is "enigma_functions.c"
 
 To compile:
 
